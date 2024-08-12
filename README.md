@@ -1,8 +1,8 @@
 # 👋 Hi
 
-## My name is Oleg, I am 20 years old full-stack web developer. Mostly i prefer frontend development. I am currently improving my skills and developing my own projects 💪
+## My name is Oleg, I am 21 years old full-stack web developer. Mostly i prefer frontend development. I am currently improving my skills and developing my own projects 💪
 
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swuger&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swuger)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swugerd&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swugerd)](https://github.com/anuraghazra/github-readme-stats) |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## My skills 🔨
@@ -13,25 +13,29 @@
 
 ### Frameworks
 
-![](https://skillicons.dev/icons?i=react,nextjs,nestjs,express)
+![](https://skillicons.dev/icons?i=react,nextjs,tailwind,electron,nestjs,express)
 
 ### Services
 
-![](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,docker)
+![](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,prisma,graphql,docker,ubuntu)
 
 ### Tools
 
-![](https://skillicons.dev/icons?i=vscode,nodejs,webpack,gulp,git)
+![](https://skillicons.dev/icons?i=vscode,figma,vite,webpack,gulp,git)
 
 ## My projects 💼
 
-## My own Social Network - [colloquy](https://github.com/Swuger/colloquy)
+## Social Network - [colloquy](https://github.com/swugerd/colloquy)
 
-### ...currently working on new projects 🙃
+## Discord music bot - [skuf-bot](https://github.com/swugerd/skuf-bot)
+
+## Video hosting - [wave](https://github.com/swugerd/wave)
 
 ---
 
 ## Contact Info ✉️
+
+### - Personal site: 🌐 [Олег Киреев](https://oleg-kombat.vercel.app/)
 
 ### - Email: 📧 [swigerd2l@gmail.com](mailto:swigerd2l@gmail.com)
 
